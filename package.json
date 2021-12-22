@@ -1,0 +1,23 @@
+{
+  "name": "Domestika",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch-01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pouthergust/HelloCreativeProgramming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pouthergust/HelloCreativeProgramming/issues"
+  },
+  "homepage": "https://github.com/pouthergust/HelloCreativeProgramming#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.4"
+  }
+}
